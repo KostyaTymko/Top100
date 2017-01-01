@@ -1,0 +1,154 @@
+c:\users\педро\documents\visual studio 2013\Projects\VkPlayer\VkPlayer\bin\Debug\VkPlayer.exe.config
+c:\users\педро\documents\visual studio 2013\Projects\VkPlayer\VkPlayer\bin\Debug\VkPlayer.exe
+c:\users\педро\documents\visual studio 2013\Projects\VkPlayer\VkPlayer\bin\Debug\VkPlayer.pdb
+c:\users\педро\documents\visual studio 2013\Projects\VkPlayer\VkPlayer\obj\Debug\VkPlayer.csprojResolveAssemblyReference.cache
+c:\users\педро\documents\visual studio 2013\Projects\VkPlayer\VkPlayer\obj\Debug\VkPlayer.Form1.resources
+c:\users\педро\documents\visual studio 2013\Projects\VkPlayer\VkPlayer\obj\Debug\VkPlayer.Form2.resources
+c:\users\педро\documents\visual studio 2013\Projects\VkPlayer\VkPlayer\obj\Debug\VkPlayer.Properties.Resources.resources
+c:\users\педро\documents\visual studio 2013\Projects\VkPlayer\VkPlayer\obj\Debug\VkPlayer.csproj.GenerateResource.Cache
+c:\users\педро\documents\visual studio 2013\Projects\VkPlayer\VkPlayer\obj\Debug\VkPlayer.exe
+c:\users\педро\documents\visual studio 2013\Projects\VkPlayer\VkPlayer\obj\Debug\VkPlayer.pdb
+D:\1\VkPlayer\VkPlayer\bin\Debug\VkPlayer.exe.config
+D:\1\VkPlayer\VkPlayer\obj\Debug\VkPlayer.exe
+D:\1\VkPlayer\VkPlayer\obj\Debug\VkPlayer.pdb
+C:\Users\Tymko\Desktop\VkPlayer\VkPlayer\bin\Debug\VkPlayer.exe.config
+C:\Users\Tymko\Desktop\VkPlayer\VkPlayer\obj\Debug\VkPlayer.exe
+C:\Users\Tymko\Desktop\VkPlayer\VkPlayer\obj\Debug\VkPlayer.pdb
+C:\Users\Tymko\Desktop\VkPlayer\VkPlayer\bin\Debug\VkPlayer.exe
+C:\Users\Tymko\Desktop\VkPlayer\VkPlayer\bin\Debug\VkPlayer.pdb
+C:\Users\Tymko\Desktop\VkPlayer\VkPlayer\obj\Debug\VkPlayer.csprojResolveAssemblyReference.cache
+C:\Users\Tymko\Desktop\VkPlayer\VkPlayer\obj\Debug\VkPlayer.Form1.resources
+C:\Users\Tymko\Desktop\VkPlayer\VkPlayer\obj\Debug\VkPlayer.Form2.resources
+C:\Users\Tymko\Desktop\VkPlayer\VkPlayer\obj\Debug\VkPlayer.Properties.Resources.resources
+C:\Users\Tymko\Desktop\VkPlayer\VkPlayer\obj\Debug\VkPlayer.csproj.GenerateResource.Cache
+C:\Users\Tymko\Desktop\VkPlayer\VkPlayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\Tymko\Desktop\VkPlayer\VkPlayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Tymko\Desktop\VkPlayer\VkPlayer\obj\Debug\Interop.WMPLib.dll
+C:\Users\Tymko\Desktop\VkPlayer\VkPlayer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Tymko\Desktop\VkPlayer\VkPlayer\obj\Debug\VkPlayer.csproj.ResolveComReference.cache
+c:\Users\Педро\Documents\Visual Studio 2013\Projects\VkPlayer\VkPlayer\obj\Debug\Interop.WMPLib.dll
+c:\Users\Педро\Documents\Visual Studio 2013\Projects\VkPlayer\VkPlayer\obj\Debug\AxInterop.WMPLib.dll
+c:\Users\Педро\Documents\Visual Studio 2013\Projects\VkPlayer\VkPlayer\obj\Debug\VkPlayer.csproj.ResolveComReference.cache
+c:\Users\Педро\Documents\Visual Studio 2013\Projects\VkPlayer\VkPlayer\bin\Debug\Interop.WMPLib.dll
+c:\Users\Педро\Documents\Visual Studio 2013\Projects\VkPlayer\VkPlayer\bin\Debug\AxInterop.WMPLib.dll
+c:\Users\Педро\Documents\Visual Studio 2013\Projects\VkPlayer\VkPlayer\obj\Debug\VkPlayer.Form3.resources
+C:\Users\Педро\Desktop\вк с плейлистом\VkPlayer\bin\Debug\VkPlayer.exe.config
+C:\Users\Педро\Desktop\вк с плейлистом\VkPlayer\obj\Debug\Interop.WMPLib.dll
+C:\Users\Педро\Desktop\вк с плейлистом\VkPlayer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Педро\Desktop\вк с плейлистом\VkPlayer\obj\Debug\VkPlayer.csproj.ResolveComReference.cache
+C:\Users\Педро\Desktop\вк с плейлистом\VkPlayer\obj\Debug\VkPlayer.exe
+C:\Users\Педро\Desktop\вк с плейлистом\VkPlayer\obj\Debug\VkPlayer.pdb
+C:\Users\Tymko\Desktop\Вк с плейлистом\VkPlayer\bin\Debug\VkPlayer.exe.config
+C:\Users\Tymko\Desktop\Вк с плейлистом\VkPlayer\obj\Debug\Interop.WMPLib.dll
+C:\Users\Tymko\Desktop\Вк с плейлистом\VkPlayer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Tymko\Desktop\Вк с плейлистом\VkPlayer\obj\Debug\VkPlayer.csproj.ResolveComReference.cache
+C:\Users\Tymko\Desktop\Вк с плейлистом\VkPlayer\obj\Debug\VkPlayer.exe
+C:\Users\Tymko\Desktop\Вк с плейлистом\VkPlayer\obj\Debug\VkPlayer.pdb
+C:\Users\Tymko\Desktop\Вк с плейлистом\VkPlayer\bin\Debug\VkPlayer.exe
+C:\Users\Tymko\Desktop\Вк с плейлистом\VkPlayer\bin\Debug\VkPlayer.pdb
+C:\Users\Tymko\Desktop\Вк с плейлистом\VkPlayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\Tymko\Desktop\Вк с плейлистом\VkPlayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Tymko\Desktop\Вк с плейлистом\VkPlayer\obj\Debug\VkPlayer.csprojResolveAssemblyReference.cache
+C:\Users\Tymko\Desktop\Вк с плейлистом\VkPlayer\obj\Debug\VkPlayer.Form1.resources
+C:\Users\Tymko\Desktop\Вк с плейлистом\VkPlayer\obj\Debug\VkPlayer.Form2.resources
+C:\Users\Tymko\Desktop\Вк с плейлистом\VkPlayer\obj\Debug\VkPlayer.Form3.resources
+C:\Users\Tymko\Desktop\Вк с плейлистом\VkPlayer\obj\Debug\VkPlayer.Properties.Resources.resources
+C:\Users\Tymko\Desktop\Вк с плейлистом\VkPlayer\obj\Debug\VkPlayer.csproj.GenerateResource.Cache
+C:\Users\Tymko\Desktop\Вк с плейлистом\VkPlayer\obj\Debug\VkPlayer.Form4.resources
+C:\Users\Tymko\Desktop\Вк с плейлистом и скачиванием\VkPlayer\bin\Debug\VkPlayer.exe.config
+C:\Users\Tymko\Desktop\Вк с плейлистом и скачиванием\VkPlayer\obj\Debug\Interop.WMPLib.dll
+C:\Users\Tymko\Desktop\Вк с плейлистом и скачиванием\VkPlayer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Tymko\Desktop\Вк с плейлистом и скачиванием\VkPlayer\obj\Debug\VkPlayer.csproj.ResolveComReference.cache
+C:\Users\Tymko\Desktop\Вк с плейлистом и скачиванием\VkPlayer\obj\Debug\VkPlayer.exe
+C:\Users\Tymko\Desktop\Вк с плейлистом и скачиванием\VkPlayer\obj\Debug\VkPlayer.pdb
+C:\Users\Tymko\Desktop\Вк с плейлистом и скачиванием\VkPlayer\bin\Debug\VkPlayer.exe
+C:\Users\Tymko\Desktop\Вк с плейлистом и скачиванием\VkPlayer\bin\Debug\VkPlayer.pdb
+C:\Users\Tymko\Desktop\Вк с плейлистом и скачиванием\VkPlayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\Tymko\Desktop\Вк с плейлистом и скачиванием\VkPlayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Tymko\Desktop\Вк с плейлистом и скачиванием\VkPlayer\obj\Debug\VkPlayer.csprojResolveAssemblyReference.cache
+C:\Users\Tymko\Desktop\Вк с плейлистом и скачиванием\VkPlayer\obj\Debug\VkPlayer.Form1.resources
+C:\Users\Tymko\Desktop\Вк с плейлистом и скачиванием\VkPlayer\obj\Debug\VkPlayer.Form2.resources
+C:\Users\Tymko\Desktop\Вк с плейлистом и скачиванием\VkPlayer\obj\Debug\VkPlayer.Form3.resources
+C:\Users\Tymko\Desktop\Вк с плейлистом и скачиванием\VkPlayer\obj\Debug\VkPlayer.Form4.resources
+C:\Users\Tymko\Desktop\Вк с плейлистом и скачиванием\VkPlayer\obj\Debug\VkPlayer.Properties.Resources.resources
+C:\Users\Tymko\Desktop\Вк с плейлистом и скачиванием\VkPlayer\obj\Debug\VkPlayer.csproj.GenerateResource.Cache
+C:\Users\Tymko\Desktop\Вк с плейлистом скачиванием2\VkPlayer\bin\Debug\VkPlayer.exe.config
+C:\Users\Tymko\Desktop\Вк с плейлистом скачиванием2\VkPlayer\obj\Debug\Interop.WMPLib.dll
+C:\Users\Tymko\Desktop\Вк с плейлистом скачиванием2\VkPlayer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Tymko\Desktop\Вк с плейлистом скачиванием2\VkPlayer\obj\Debug\VkPlayer.csproj.ResolveComReference.cache
+C:\Users\Tymko\Desktop\Вк с плейлистом скачиванием2\VkPlayer\obj\Debug\VkPlayer.exe
+C:\Users\Tymko\Desktop\Вк с плейлистом скачиванием2\VkPlayer\obj\Debug\VkPlayer.pdb
+C:\Users\Tymko\Desktop\Вк с плейлистом скачиванием2\VkPlayer\bin\Debug\VkPlayer.exe
+C:\Users\Tymko\Desktop\Вк с плейлистом скачиванием2\VkPlayer\bin\Debug\VkPlayer.pdb
+C:\Users\Tymko\Desktop\Вк с плейлистом скачиванием2\VkPlayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\Tymko\Desktop\Вк с плейлистом скачиванием2\VkPlayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Tymko\Desktop\Вк с плейлистом скачиванием2\VkPlayer\obj\Debug\VkPlayer.csprojResolveAssemblyReference.cache
+C:\Users\Tymko\Desktop\Вк с плейлистом скачиванием2\VkPlayer\obj\Debug\VkPlayer.Form1.resources
+C:\Users\Tymko\Desktop\Вк с плейлистом скачиванием2\VkPlayer\obj\Debug\VkPlayer.Form2.resources
+C:\Users\Tymko\Desktop\Вк с плейлистом скачиванием2\VkPlayer\obj\Debug\VkPlayer.Form3.resources
+C:\Users\Tymko\Desktop\Вк с плейлистом скачиванием2\VkPlayer\obj\Debug\VkPlayer.Form4.resources
+C:\Users\Tymko\Desktop\Вк с плейлистом скачиванием2\VkPlayer\obj\Debug\VkPlayer.Properties.Resources.resources
+C:\Users\Tymko\Desktop\Вк с плейлистом скачиванием2\VkPlayer\obj\Debug\VkPlayer.csproj.GenerateResource.Cache
+C:\Users\Tymko\Desktop\копи\Вк с плейлистом скачиванием2\VkPlayer\bin\Debug\VkPlayer.exe.config
+C:\Users\Tymko\Desktop\копи\Вк с плейлистом скачиванием2\VkPlayer\obj\Debug\Interop.WMPLib.dll
+C:\Users\Tymko\Desktop\копи\Вк с плейлистом скачиванием2\VkPlayer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Tymko\Desktop\копи\Вк с плейлистом скачиванием2\VkPlayer\obj\Debug\VkPlayer.csproj.ResolveComReference.cache
+C:\Users\Tymko\Desktop\копи\Вк с плейлистом скачиванием2\VkPlayer\obj\Debug\VkPlayer.exe
+C:\Users\Tymko\Desktop\копи\Вк с плейлистом скачиванием2\VkPlayer\obj\Debug\VkPlayer.pdb
+C:\Users\Tymko\Desktop\копи\Вк с плейлистом скачиванием2\VkPlayer\bin\Debug\VkPlayer.exe
+C:\Users\Tymko\Desktop\копи\Вк с плейлистом скачиванием2\VkPlayer\bin\Debug\VkPlayer.pdb
+C:\Users\Tymko\Desktop\копи\Вк с плейлистом скачиванием2\VkPlayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\Tymko\Desktop\копи\Вк с плейлистом скачиванием2\VkPlayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Tymko\Desktop\копи\Вк с плейлистом скачиванием2\VkPlayer\obj\Debug\VkPlayer.csprojResolveAssemblyReference.cache
+C:\Users\Tymko\Desktop\копи\Вк с плейлистом скачиванием2\VkPlayer\obj\Debug\VkPlayer.Form1.resources
+C:\Users\Tymko\Desktop\копи\Вк с плейлистом скачиванием2\VkPlayer\obj\Debug\VkPlayer.Form2.resources
+C:\Users\Tymko\Desktop\копи\Вк с плейлистом скачиванием2\VkPlayer\obj\Debug\VkPlayer.Form3.resources
+C:\Users\Tymko\Desktop\копи\Вк с плейлистом скачиванием2\VkPlayer\obj\Debug\VkPlayer.Form4.resources
+C:\Users\Tymko\Desktop\копи\Вк с плейлистом скачиванием2\VkPlayer\obj\Debug\VkPlayer.Properties.Resources.resources
+C:\Users\Tymko\Desktop\копи\Вк с плейлистом скачиванием2\VkPlayer\obj\Debug\VkPlayer.csproj.GenerateResource.Cache
+C:\Users\Tymko\Desktop\Вк с плейлистом скачиванием2норм капча\VkPlayer\bin\Debug\VkPlayer.exe.config
+C:\Users\Tymko\Desktop\Вк с плейлистом скачиванием2норм капча\VkPlayer\obj\Debug\Interop.WMPLib.dll
+C:\Users\Tymko\Desktop\Вк с плейлистом скачиванием2норм капча\VkPlayer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Tymko\Desktop\Вк с плейлистом скачиванием2норм капча\VkPlayer\obj\Debug\VkPlayer.csproj.ResolveComReference.cache
+C:\Users\Tymko\Desktop\Вк с плейлистом скачиванием2норм капча\VkPlayer\obj\Debug\VkPlayer.exe
+C:\Users\Tymko\Desktop\Вк с плейлистом скачиванием2норм капча\VkPlayer\obj\Debug\VkPlayer.pdb
+C:\Users\Tymko\Desktop\Вк с плейлистом скачиванием2норм капча\VkPlayer\bin\Debug\VkPlayer.exe
+C:\Users\Tymko\Desktop\Вк с плейлистом скачиванием2норм капча\VkPlayer\bin\Debug\VkPlayer.pdb
+C:\Users\Tymko\Desktop\Вк с плейлистом скачиванием2норм капча\VkPlayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\Tymko\Desktop\Вк с плейлистом скачиванием2норм капча\VkPlayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Tymko\Desktop\Вк с плейлистом скачиванием2норм капча\VkPlayer\obj\Debug\VkPlayer.csprojResolveAssemblyReference.cache
+C:\Users\Tymko\Desktop\Вк с плейлистом скачиванием2норм капча\VkPlayer\obj\Debug\VkPlayer.Form1.resources
+C:\Users\Tymko\Desktop\Вк с плейлистом скачиванием2норм капча\VkPlayer\obj\Debug\VkPlayer.Form2.resources
+C:\Users\Tymko\Desktop\Вк с плейлистом скачиванием2норм капча\VkPlayer\obj\Debug\VkPlayer.Form3.resources
+C:\Users\Tymko\Desktop\Вк с плейлистом скачиванием2норм капча\VkPlayer\obj\Debug\VkPlayer.Form4.resources
+C:\Users\Tymko\Desktop\Вк с плейлистом скачиванием2норм капча\VkPlayer\obj\Debug\VkPlayer.Properties.Resources.resources
+C:\Users\Tymko\Desktop\Вк с плейлистом скачиванием2норм капча\VkPlayer\obj\Debug\VkPlayer.csproj.GenerateResource.Cache
+C:\Users\Tymko\Desktop\копи\Вк с плейлистом скачиванием2норм капча\VkPlayer\bin\Debug\VkPlayer.exe.config
+C:\Users\Tymko\Desktop\копи\Вк с плейлистом скачиванием2норм капча\VkPlayer\obj\Debug\Interop.WMPLib.dll
+C:\Users\Tymko\Desktop\копи\Вк с плейлистом скачиванием2норм капча\VkPlayer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Tymko\Desktop\копи\Вк с плейлистом скачиванием2норм капча\VkPlayer\obj\Debug\VkPlayer.csproj.ResolveComReference.cache
+C:\Users\Tymko\Desktop\копи\Вк с плейлистом скачиванием2норм капча\VkPlayer\obj\Debug\VkPlayer.exe
+C:\Users\Tymko\Desktop\копи\Вк с плейлистом скачиванием2норм капча\VkPlayer\obj\Debug\VkPlayer.pdb
+C:\Users\Tymko\Desktop\Top100\VkPlayer\bin\Debug\VkPlayer.exe.config
+C:\Users\Tymko\Desktop\Top100\VkPlayer\obj\Debug\Interop.WMPLib.dll
+C:\Users\Tymko\Desktop\Top100\VkPlayer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Tymko\Desktop\Top100\VkPlayer\obj\Debug\VkPlayer.csproj.ResolveComReference.cache
+C:\Users\Tymko\Desktop\Top100\VkPlayer\obj\Debug\VkPlayer.exe
+C:\Users\Tymko\Desktop\Top100\VkPlayer\obj\Debug\VkPlayer.pdb
+c:\Users\Педро\Documents\Top100\VkPlayer\bin\Debug\VkPlayer.exe.config
+c:\Users\Педро\Documents\Top100\VkPlayer\obj\Debug\Interop.WMPLib.dll
+c:\Users\Педро\Documents\Top100\VkPlayer\obj\Debug\AxInterop.WMPLib.dll
+c:\Users\Педро\Documents\Top100\VkPlayer\obj\Debug\VkPlayer.csproj.ResolveComReference.cache
+c:\Users\Педро\Documents\Top100\VkPlayer\obj\Debug\VkPlayer.exe
+c:\Users\Педро\Documents\Top100\VkPlayer\obj\Debug\VkPlayer.pdb
+c:\Users\Педро\Documents\Top100\VkPlayer\bin\Debug\VkPlayer.exe
+c:\Users\Педро\Documents\Top100\VkPlayer\bin\Debug\VkPlayer.pdb
+c:\Users\Педро\Documents\Top100\VkPlayer\bin\Debug\Interop.WMPLib.dll
+c:\Users\Педро\Documents\Top100\VkPlayer\bin\Debug\AxInterop.WMPLib.dll
+c:\Users\Педро\Documents\Top100\VkPlayer\obj\Debug\VkPlayer.csprojResolveAssemblyReference.cache
+c:\Users\Педро\Documents\Top100\VkPlayer\obj\Debug\VkPlayer.Form1.resources
+c:\Users\Педро\Documents\Top100\VkPlayer\obj\Debug\VkPlayer.Form2.resources
+c:\Users\Педро\Documents\Top100\VkPlayer\obj\Debug\VkPlayer.Form3.resources
+c:\Users\Педро\Documents\Top100\VkPlayer\obj\Debug\VkPlayer.Form4.resources
+c:\Users\Педро\Documents\Top100\VkPlayer\obj\Debug\VkPlayer.Properties.Resources.resources
+c:\Users\Педро\Documents\Top100\VkPlayer\obj\Debug\VkPlayer.csproj.GenerateResource.Cache
